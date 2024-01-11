@@ -77,7 +77,7 @@ npm run watch
 ```
 
 ### **Passo 9:** Use o Caminho Correto no `index.html`
-Certifique-se de usar o caminho correto (`dist/css/main.css`) no arquivo `index.html` para a folha de estilos.
+Certifique-se de usar o caminho correto (`dist/css/main.css`) e (`dist/js/main.js`)no arquivo `index.html` para a folha de estilos e scripts.
 
 ### **Passo 10:** Instale o Compressor de Imagens
 Instale o gulp-imagemin para otimizar imagens:
