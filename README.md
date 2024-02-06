@@ -73,7 +73,7 @@ exports.watch = function() {
 Execute com:
 
 ```bash
-npm run watch
+npm run dev
 ```
 
 ### **Passo 9:** Use o Caminho Correto no `index.html`
